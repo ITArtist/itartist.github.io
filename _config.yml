@@ -6,13 +6,13 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site title
-title: "BlogInn"
+title: "ITArtist"
 
 # Tagline next to the site title
-tagline: "Thoughts, stories and ideas."
+tagline: "ITArtist's Blog"
 
 # A description of your site for social meta tag, search engines, and feed.xml
-description: "BlogInn is a bold theme for the Jekyll blogging platform. Available for purchase at ThemeForest.net."
+description: "ITArtist의 블로그. Web, App"
 
 # The subpath of your site, e.g. /blog, for generating urls
 baseurl:
@@ -23,7 +23,7 @@ sass:
   style: compressed
 
 # The base hostname & protocol of your site for where absolute urls are needed
-url: "https://bloginn.netlify.app"
+url: "https://itartist.github.io"
 
 # Site navigation - each item must have a title and a url.
 navigation:
@@ -43,10 +43,10 @@ disqus: "justgoodthemes"
 google_analytics: ""
 
 # Author information - author info at the bottom of the post
-author_name: "John Doe"
+author_name: "Joshua Kim"
 author_bio: "John is a designer, photographer, speaker, author of a couple of books about typography and the founder of photo magazine Curious."
 author_url:  "http://justgoodthemes.com"
-author_location: "Vilnius, Lithuania"
+author_location: "South Korea"
 author_image: /images/authorimage.png
 
 # Sidebar Add banner
